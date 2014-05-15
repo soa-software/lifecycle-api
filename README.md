@@ -1,4 +1,4 @@
-<img src="http://soa.com/img/SOA-Logo.png"/>
+<img src="http://lm.epaas.info:8080/LMApiDemo/rs/soasoftware/images/logo.png"/>
 
 Lifecycle API Overview
 ----------------------
