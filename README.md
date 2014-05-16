@@ -13,7 +13,7 @@ The steps are:
 
 <img src="http://lm.epaas.info:8080/LMApiDemo/img/github/addfile.png"/>
 
-2) Enter a file name
+2) Enter a file name, it should have a *.txt* or *.xml* extension.
 
 <img src="http://lm.epaas.info:8080/LMApiDemo/img/github/filename.png"/>
 
